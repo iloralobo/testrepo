@@ -1,2 +1,2 @@
 # primer archivo creado desde el repositorio
-print("Soy el primero")
+print("Yo,soy el primero")
